@@ -1,2 +1,1 @@
-# esaldana
-Tesis de Jesús Emanuel Saldaña Pérez
+# Tesis de Jesús Emanuel Saldaña Pérez
